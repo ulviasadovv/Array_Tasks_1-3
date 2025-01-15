@@ -54,22 +54,7 @@
 
 
             // 3. En uzun alt massivi tap.
-            //Console.Write("Ededleri daxil edin: ");
-            //string[] nums = Console.ReadLine().Split();
-            //int[] numbers = new int[nums.Length];
-            //int min = Convert.ToInt32(nums[0]);
-            //int index = 0;
-
-            //for (int i = 0; i < nums.Length; i++)
-            //{
-            //    if (Convert.ToInt32(nums[i]) < min)
-            //    {
-            //        min = Convert.ToInt32(nums[i]);
-            //        index = i;
-            //    }
-            //}
-
-
+            
             Console.Write("Ededleri daxil edin: ");
             string[] nums = Console.ReadLine().Split();
             int[] arr = new int[nums.Length];
